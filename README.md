@@ -1,6 +1,10 @@
 # roll-a-dice
-Ce jeu de dé se joue à deux, lancez le dé en appuyant sur le bouton «ROLL DICE», votre score après chaque lancé de dé apparaîtra dans le cadre «current». Si le nombre obtenu a votre lancé est de 1, votre score en cours passe à zéro et c'est au tour de votre adversaire de jouer.
-Pour bloquer votre score, appuyer sur le bouton «HOLD».
-Le premier joueur à avoir atteint 50 points remporte la partie.
-Vous pouvez accéder au jeu en cliquant qur le lien suivant: https://fabulous1996.github.io/roll-a-dice/
-Have fun ! 
+
+Project in Javascript from Jonas Schmedtmann Javascript course on Udemy
+This dice game is played by two players. Roll the dice by pressing the "ROLL DICE" button; your score after each roll will appear in the "current" box. If the number you roll equals 1, your current score resets to zero, and it's your opponent's turn to play.
+To lock in your score, press the "HOLD" button.
+The first player to reach 50 points wins the game.
+You can access the game by clicking on the following link: https://fabulous1996.github.io/roll-a-dice/
+Have fun !
+
+![alt text](ingame.png)
